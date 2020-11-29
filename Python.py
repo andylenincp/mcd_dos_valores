@@ -1,7 +1,7 @@
 #Realice un programa que permita calcular y mostrar el máximo común divisor de dos valores previamente ingresados.
 
 print("")
-print("Haga un programa que permita calcular y mostrar el máximo común divisor de dos valores previamente ingresados.")
+print("Realice un programa que permita calcular y mostrar el máximo común divisor de dos valores previamente ingresados.")
 print("")
 while True:
 	try:
