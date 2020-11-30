@@ -15,7 +15,7 @@ while True:
 				a = sobra
 			return a
  
-		# solicitamos los dos números
+		# Solicitamos el ingreso de los dos números
 		num1 = int(input("Ingrese el primer número: "))
 		num2 = int(input("Ingrese el segundo número: "))
 		print("El máximo común divisor de ", num1," y ", num2," es ", mcd(num1, num2))
