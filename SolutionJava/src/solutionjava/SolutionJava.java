@@ -32,7 +32,7 @@ public class SolutionJava {
             int num2 = entrada.nextInt();
         
             /*
-            Asignamos el mayor y menos a las variables a y b respectivamente
+            Asignamos el mayor y menor a las variables a y b respectivamente
             */
             int a = Math.max(num2, num1);
             int b = Math.min(num1, num2);
@@ -47,7 +47,7 @@ public class SolutionJava {
             */
             do {
                 /*
-                Asignamos al resultado el valor de b, si la división es exacta el mcd será el meno de los dos números ingresados,
+                Asignamos al resultado el valor de b, si la división es exacta el mcd será el menor de los dos números ingresados,
                 caso contrario la variable resultado irá guardando el valor del resto entre a y b de la iteración anterior.
                 */
                 resultado = b;
